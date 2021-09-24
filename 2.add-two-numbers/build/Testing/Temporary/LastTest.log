@@ -1,0 +1,87 @@
+Start testing: Jul 15 10:35 CST
+----------------------------------------------------------
+1/3 Testing: addTwoNumbers.example1
+1/3 Test: addTwoNumbers.example1
+Command: "/home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func" "--gtest_filter=addTwoNumbers.example1" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/code/leetcode/2.add-two-numbers/build
+"addTwoNumbers.example1" start time: Jul 15 10:35 CST
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/code/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = addTwoNumbers.example1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from addTwoNumbers
+[ RUN      ] addTwoNumbers.example1
+[       OK ] addTwoNumbers.example1 (0 ms)
+[----------] 1 test from addTwoNumbers (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"addTwoNumbers.example1" end time: Jul 15 10:35 CST
+"addTwoNumbers.example1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: addTwoNumbers.example2
+2/3 Test: addTwoNumbers.example2
+Command: "/home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func" "--gtest_filter=addTwoNumbers.example2" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/code/leetcode/2.add-two-numbers/build
+"addTwoNumbers.example2" start time: Jul 15 10:35 CST
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/code/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = addTwoNumbers.example2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from addTwoNumbers
+[ RUN      ] addTwoNumbers.example2
+[       OK ] addTwoNumbers.example2 (0 ms)
+[----------] 1 test from addTwoNumbers (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"addTwoNumbers.example2" end time: Jul 15 10:35 CST
+"addTwoNumbers.example2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: addTwoNumbers.example3
+3/3 Test: addTwoNumbers.example3
+Command: "/home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func" "--gtest_filter=addTwoNumbers.example3" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/code/leetcode/2.add-two-numbers/build
+"addTwoNumbers.example3" start time: Jul 15 10:35 CST
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/code/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = addTwoNumbers.example3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from addTwoNumbers
+[ RUN      ] addTwoNumbers.example3
+[       OK ] addTwoNumbers.example3 (0 ms)
+[----------] 1 test from addTwoNumbers (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"addTwoNumbers.example3" end time: Jul 15 10:35 CST
+"addTwoNumbers.example3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 15 10:35 CST
+
+unit =   0.01 sec*proc
+

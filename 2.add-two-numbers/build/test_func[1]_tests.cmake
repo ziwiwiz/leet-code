@@ -1,0 +1,7 @@
+add_test( addTwoNumbers.example1 /home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func [==[--gtest_filter=addTwoNumbers.example1]==] --gtest_also_run_disabled_tests)
+set_tests_properties( addTwoNumbers.example1 PROPERTIES WORKING_DIRECTORY /home/ubuntu/code/leetcode/2.add-two-numbers/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] LABELS unit)
+add_test( addTwoNumbers.example2 /home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func [==[--gtest_filter=addTwoNumbers.example2]==] --gtest_also_run_disabled_tests)
+set_tests_properties( addTwoNumbers.example2 PROPERTIES WORKING_DIRECTORY /home/ubuntu/code/leetcode/2.add-two-numbers/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] LABELS unit)
+add_test( addTwoNumbers.example3 /home/ubuntu/code/leetcode/2.add-two-numbers/build/test_func [==[--gtest_filter=addTwoNumbers.example3]==] --gtest_also_run_disabled_tests)
+set_tests_properties( addTwoNumbers.example3 PROPERTIES WORKING_DIRECTORY /home/ubuntu/code/leetcode/2.add-two-numbers/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==] LABELS unit)
+set( test_func_TESTS addTwoNumbers.example1 addTwoNumbers.example2 addTwoNumbers.example3)

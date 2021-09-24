@@ -1,0 +1,6 @@
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/test.dir
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/edit_cache.dir
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/test_func.dir
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/package_source.dir
+/home/ubuntu/code/leetcode/1.two-sum/buid/CMakeFiles/package.dir

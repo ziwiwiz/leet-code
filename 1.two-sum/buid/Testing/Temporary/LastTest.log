@@ -1,0 +1,33 @@
+Start testing: Jul 14 15:10 CST
+----------------------------------------------------------
+1/1 Testing: test_Solution.twoSum
+1/1 Test: test_Solution.twoSum
+Command: "/home/ubuntu/code/leetcode/1.two-sum/buid/test_func" "--gtest_filter=test_Solution.twoSum" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/code/leetcode/1.two-sum/buid
+"test_Solution.twoSum" start time: Jul 14 15:10 CST
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/code/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = test_Solution.twoSum
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_Solution
+[ RUN      ] test_Solution.twoSum
+[       OK ] test_Solution.twoSum (0 ms)
+[----------] 1 test from test_Solution (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_Solution.twoSum" end time: Jul 14 15:10 CST
+"test_Solution.twoSum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 14 15:10 CST
+
+unit =   0.00 sec*proc
+
